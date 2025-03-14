@@ -1,3 +1,11 @@
+lab/
+│── research/           # Papers, projects, code
+│── teaching/           # Lecture notes, Colab notebooks
+│── _notebooks/         # Jupyter/Colab files
+│── README.md           # Overview of your work
+│── index.md (optional) # Main landing page for GitHub Pages
+
+
 <header>
 
 <!--
