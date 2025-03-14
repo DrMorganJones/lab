@@ -1,5 +1,5 @@
 title: Morgan Jones - Academic Website
 description: Lecturer in Machine Learning and Control Theory at the University of Sheffield
-url: "http://yourwebsite.com"  # Replace with your actual URL
-baseurl: ""
+url: "https://drmorganjones.github.io/lab"  # Replace with your actual URL
+baseurl: "https://drmorganjones.github.io/lab"
 theme: minima
