@@ -1,5 +1,5 @@
 title: Morgan Jones - Academic Website
 description: Lecturer in Machine Learning and Control Theory at the University of Sheffield
-url: "https://drmorganjones.github.io/lab"  # Replace with your actual URL
-baseurl: "https://drmorganjones.github.io/lab"
+url: "https://drmorganjones.github.io"  # Root URL of your GitHub Pages site
+baseurl: "/lab"  # The subdirectory where your site is located
 theme: minima
