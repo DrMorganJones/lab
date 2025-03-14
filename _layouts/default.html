@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+</head>
+<body>
+
+  <!-- Header / Navigation -->
+  <header>
+    <nav>
+      <ul>
+        <li><a href="{{ "/" | relative_url }}">Home</a></li>
+        <li><a href="{{ "/research" | relative_url }}">Research</a></li>
+        <li><a href="{{ "/teaching" | relative_url }}">Teaching</a></li>
+        <li><a href="{{ "/publications" | relative_url }}">Publications</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; Morgan Jones, 2025</p>
+  </footer>
+
+</body>
+</html>
